@@ -20,9 +20,7 @@ Funcionalidades:
 Passo 1: Adicionar ao seu servidor (Bewitched)
 
 1. Faça o download ou clone este repositório para o seu servidor.
-2. Adicione o script à sua pasta de recursos e certifique-se de iniciar o script no seu arquivo server.cfg com o seguinte comando:
-
-start KeylessJacker
+2. Adicione o script à sua pasta de recursos.
 
 Passo 2: Modificar o código do seu Inventory/Server (Enchanted / Native)
 
